@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Variables
-declare version="2.4-1"
+declare version="3.4-1"
 
 #Commands
 mkdir "helloworld_${version}_arm64"
